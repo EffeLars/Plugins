@@ -1,0 +1,10 @@
+main: me.lars.game.Main
+name: WandPlugin
+version: 0.1
+author: Lars
+api-version: '1.16'
+description: WAND
+commands:
+  MagicWands:
+    description: Your command description
+    usage: /<command>
