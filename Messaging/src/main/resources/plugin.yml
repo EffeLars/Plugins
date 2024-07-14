@@ -1,0 +1,15 @@
+main: me.rok.main.Main
+name: Messaging
+version: 1
+api-version: 1.16
+author: Lars
+description: Magical Template - WOW!
+commands:
+  rokmessage:
+    usage: /<command>
+    description: Template Command to reload Config
+    aliases: reloadcon
+  test:
+    usage: /<command>
+    description: Template Command to reload Config
+    aliases: t
