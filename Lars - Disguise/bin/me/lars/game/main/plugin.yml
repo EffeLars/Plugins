@@ -1,0 +1,11 @@
+main: me.lars.game.main.Main
+name: WandPlugin
+version: 0.1
+author: Lars
+api-version: 1.20
+description: WAND
+commands:
+  MagicWands:
+    usage: /<command>
+  getlevel:
+    usage: /<command>
