@@ -1,0 +1,18 @@
+message:
+  vanish:
+    vanishplayer: '&3%player% &bhas vanished. Poof'
+    unvanishplayer: '&3%player% &bhas unvanished. Wapow'
+    vanish: '&3You enabled your vanish mode.'
+    unvanish: '&3You disabled your vanish mode'
+  tp:
+    to: '&3%targetplayer% &bhas teleported you to &b%playertarget%'
+    from: '&3je hebt %player% naar %target% geteleporteerd'
+    tp: '&3You teleported to the player %tptarget%'
+  nightvision:
+    'on': '&3You enabled your &bnight vision'
+    'off': '&3You disabled your &bnight vision'
+  plugin:
+    prefix: '&3&lVANISH'
+  speed:
+    walk: '&3You set your walk speed to &b'
+    fly: '&3You set your fly speed to &b'

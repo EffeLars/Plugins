@@ -1,0 +1,23 @@
+main: me.rok.main.Main
+name: RoKDisguise
+version: 1
+api-version: 1.16
+author: Lars
+description: Magical Template - WOW!
+commands:
+  Reloadconfig:
+    usage: /<command>
+    description: Template Command to reload Config
+    aliases: reloadcon
+  disguise:
+    usage: /<command>
+    description: Template Command to reload Config
+    aliases: t
+  toggleffects:
+    usage: /<command>
+    description: Template Command to reload Config
+    aliases: te
+  rp:
+    usage: /<command>
+    description: Template Command to reload Config
+    aliases: ta
