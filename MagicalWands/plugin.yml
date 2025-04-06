@@ -1,0 +1,13 @@
+main: me.magicwands.main.Main
+name: MagicWands
+version: 0.1
+author: EffeLars
+api-version: '1.16'
+description: Use Magic!
+commands:
+  MagicWands:
+    description: Your command description
+    usage: /<command>
+  mw:
+    description: Your command description
+    usage: /<command>

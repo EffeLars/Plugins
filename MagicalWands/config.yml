@@ -1,0 +1,27 @@
+wands:
+  fire:
+    color: c
+    item: blaze_rod
+    customname: '&4Fire Wand'
+    bowtime: 4
+  ice:
+    color: 3
+    item: bone
+    customname: '&bIce Wand'
+    bowtime: 4
+  nature:
+    color: a
+    item: bamboo
+    customname: '&aNature Wand'
+    bowtime: 4
+  light:
+    color: f
+    item: nether_star
+    customname: '&fCelestial Wand'
+    bowtime: 4
+spells:
+  fireleap:
+    playercooldown: 15
+    staffcooldown: 0
+  firepulse:
+    damage: 5
